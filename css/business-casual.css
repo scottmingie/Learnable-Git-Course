@@ -62,12 +62,14 @@ p {
   display: block;
   font-size: 1rem;
   font-weight: 800;
+  color: #FF0000;
 }
 
 .section-heading .section-heading-lower {
   display: block;
   font-size: 3rem;
   font-weight: 100;
+  color: #FF0000;
 }
 
 .bg-faded {
@@ -89,7 +91,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #e6a756; 
 }
 
 @media (min-width: 992px) {
@@ -253,3 +255,5 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+
